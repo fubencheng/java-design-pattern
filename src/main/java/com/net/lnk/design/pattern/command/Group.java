@@ -23,4 +23,7 @@ public abstract class Group {
 	// 被要求给出所有的变更计划
 	public abstract void plan();
 
+	// 被要求回滚变更
+	public abstract void rollBack();
+
 }

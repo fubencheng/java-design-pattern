@@ -14,6 +14,8 @@ public class Client {
 
 		manager = new Invoker(new DeletePageCommand());
 		manager.action();
+		manager = new Invoker(new CancelDeletePageCommand());
+		manager.action();
 
 		manager = new Invoker(new ChangeFunctionCommand());
 		manager.action();

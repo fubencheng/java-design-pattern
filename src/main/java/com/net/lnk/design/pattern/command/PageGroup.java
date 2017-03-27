@@ -28,4 +28,8 @@ public class PageGroup extends Group {
 		System.out.println("give a page change plan ...");
 	}
 
+	public void rollBack() {
+		System.out.println("rollback page change ...");
+	}
+
 }

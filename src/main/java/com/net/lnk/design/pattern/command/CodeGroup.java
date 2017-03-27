@@ -28,4 +28,8 @@ public class CodeGroup extends Group {
 		System.out.println("give a function change plan ...");
 	}
 
+	public void rollBack() {
+		System.out.println("rollback function change ...");
+	}
+
 }

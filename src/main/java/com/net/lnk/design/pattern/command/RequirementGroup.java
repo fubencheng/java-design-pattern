@@ -28,4 +28,8 @@ public class RequirementGroup extends Group {
 		System.out.println("give a requirement change plan ...");
 	}
 
+	public void rollBack() {
+		System.out.println("rollback requirement change ...");
+	}
+
 }
