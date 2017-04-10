@@ -6,7 +6,18 @@
 	<artifactId>design-pattern</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
 	<name>design-pattern</name>
+
+	<properties>
+		<commons.beanutils.version>1.9.3</commons.beanutils.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>commons-beanutils</groupId>
+			<artifactId>commons-beanutils</artifactId>
+			<version>${commons.beanutils.version}</version>
+		</dependency>
+	</dependencies>
 
 </project>

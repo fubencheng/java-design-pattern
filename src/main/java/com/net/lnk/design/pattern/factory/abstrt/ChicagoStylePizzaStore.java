@@ -1,10 +1,10 @@
 package com.net.lnk.design.pattern.factory.abstrt;
 
-import com.net.lnk.design.pattern.AbstractPizza;
-import com.net.lnk.design.pattern.ChicagoStyleCheesePizza;
-import com.net.lnk.design.pattern.ChicagoStyleClamPizza;
-import com.net.lnk.design.pattern.ChicagoStylePepperoniPizza;
-import com.net.lnk.design.pattern.ChicagoStyleVeggiPizza;
+import com.net.lnk.design.pattern.factory.AbstractPizza;
+import com.net.lnk.design.pattern.factory.ChicagoStyleCheesePizza;
+import com.net.lnk.design.pattern.factory.ChicagoStyleClamPizza;
+import com.net.lnk.design.pattern.factory.ChicagoStylePepperoniPizza;
+import com.net.lnk.design.pattern.factory.ChicagoStyleVeggiPizza;
 
 /**
  * @tag

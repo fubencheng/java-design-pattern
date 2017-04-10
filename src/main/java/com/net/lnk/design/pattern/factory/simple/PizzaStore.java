@@ -1,6 +1,6 @@
 package com.net.lnk.design.pattern.factory.simple;
 
-import com.net.lnk.design.pattern.Pizza;
+import com.net.lnk.design.pattern.factory.Pizza;
 
 /**
  * @tag

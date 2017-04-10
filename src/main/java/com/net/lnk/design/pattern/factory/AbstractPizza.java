@@ -1,4 +1,4 @@
-package com.net.lnk.design.pattern;
+package com.net.lnk.design.pattern.factory;
 
 import java.util.ArrayList;
 import java.util.List;

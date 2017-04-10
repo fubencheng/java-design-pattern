@@ -1,6 +1,6 @@
 package com.net.lnk.design.pattern.factory.abstrt;
 
-import com.net.lnk.design.pattern.AbstractPizza;
+import com.net.lnk.design.pattern.factory.AbstractPizza;
 
 /**
  * @tag
